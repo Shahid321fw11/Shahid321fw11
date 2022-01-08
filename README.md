@@ -33,7 +33,6 @@
 </p>
 
 <!-- language and tools -->
-
 <h3 align="center">Languages and Tools:</h3>
 <p align="center ">
     <a href="https://git-scm.com/" target="_blank"> <img
@@ -63,15 +62,15 @@
                         alt="redux" width="40" height="40" /> </a> </p>
 
 <p align="center"><img
-                src="https://github-readme-stats.vercel.app/api/top-langs?username=kapish33&theme=dark&hide_border=true&show_icons=true&locale=en&layout=compact"
-                alt="kapish33" /></p>
+                src="https://github-readme-stats.vercel.app/api/top-langs?username=Shahid321fw11&theme=dark&hide_border=true&show_icons=true&locale=en&layout=compact"
+                alt="Shahid321fw11" /></p>
 
 <p align="center">&nbsp;<img align="center"
-                src="https://github-readme-stats.vercel.app/api?username=kapish33&show_icons=true&theme=dark&hide_border=true&locale=en"
-                alt="kapish33" /></p>
+                src="https://github-readme-stats.vercel.app/api?username=Shahid321fw11&show_icons=true&theme=dark&hide_border=true&locale=en"
+                alt="Shahid321fw11" /></p>
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kapish33&theme=dark&hide_border=true"
-                alt="kapish33" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Shahid321fw11&theme=dark&hide_border=true"
+                alt="Shahid321fw11" /></p>
 
 ### 📈 GitHub Activity:
-  <a href="https://github.com/kapish33/github-readme-activity-graph"><img alt="kapish33's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=kapish33&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+  <a href="https://github.com/Shahid321fw11/github-readme-activity-graph"><img alt="Shahid321fw11's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Shahid321fw11&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
