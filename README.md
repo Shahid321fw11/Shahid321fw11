@@ -11,14 +11,11 @@
                 src="https://user-images.githubusercontent.com/40136017/134124139-172a975d-1cf3-4538-8049-8efab00e4489.png"
                 alt="Shahid321fw11" /> </p>
 
-- 🌱 I’m currently learning *FULL STACK DEVELOPEMNT* (MERN STACK) from MASAI SCHOOL.
+- 🌱 Currently I'm learning *FULL STACK DEVELOPEMNT* (MERN STACK) from MASAI SCHOOL.
 
-- 💬 Ask me about *JS, REACT, DS-ALGO, NODE, MONGO*
+- 💬 Ask me about *JS, REACT, DS-ALGO, NODE, MONGO.*
 
 - 📫 How to reach me *sidansari20@gmail.com*
-
-
-<a href="https://app.daily.dev/Shahid321fw11"><img src="https://api.daily.dev/devcards/a5aeaad717d1459f9f13c0ece8a84530.png?r=rxj" width="400" alt="Shahid Ansari's Dev Card"/></a>
 
 <!-- ### Feel Free to Contact me..... -->
 <h3 align="center">Feel Free to Contact me.....</h3>
