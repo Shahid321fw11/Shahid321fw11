@@ -1,18 +1,19 @@
 <h1 align="center">Hi 👋, I'm Shahid Ansari 👨🏻‍💻</h1>
-<h3 align="center">I'm a Full-Stack Web Developer with hands-on experience in designing, developing, and implementing
-        applications and solutions using JavaScript, ReactJS.</h3>
+<h3 align="center">I'm a Full-Stack Web Developer with hands-on experience in designing, developing, and implementing applications and solutions using JavaScript, ReactJS.</h3>
 
-<p align="center"> <img
-                src="https://komarev.com/ghpvc/?username=Shahid321fw11&label=Profile%20views&color=0e75b6&style=flat"
-                alt="Shahid321fw11" /> </p>
+<p align="center"> 
+    <img
+    src="https://komarev.com/ghpvc/?username=Shahid321fw11&label=Profile%20views&color=0e75b6&style=flat"
+    alt="Shahid321fw11" />
+</p>
                 
 <p align="center"> <img
                 src="https://user-images.githubusercontent.com/40136017/134124139-172a975d-1cf3-4538-8049-8efab00e4489.png"
                 alt="Shahid321fw11" /> </p>
 
-- 🌱 I’m currently learning *MERN FULL STACK DEVELOPEMNT*
+- 🌱 I’m currently learning *FULL STACK DEVELOPEMNT* (MERN STACK) from MASAI SCHOOL.
 
-- 💬 Ask me about *JAVASCRIPT, REACT, DS-ALGO*
+- 💬 Ask me about *JS, REACT, DS-ALGO, NODE, MONGO*
 
 - 📫 How to reach me *sidansari20@gmail.com*
 
