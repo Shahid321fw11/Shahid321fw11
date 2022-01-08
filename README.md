@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shahid Ansari 👨🏻‍💻</h1>
-<h3 align="center">I'm a Full-Stack Web Developer with hands-on experience in designing, developing, and implementing applications and solutions using JavaScript, ReactJS.</h3>
+<h3 align="center">I'm a Full-Stack Web Developer with hands-on experience in designing, developing, and implementing applications
+ and solutions using JavaScript, ReactJS.</h3>
 
 <p align="center"> 
     <img
@@ -7,9 +8,10 @@
     alt="Shahid321fw11" />
 </p>
                 
-<p align="center"> <img
-                src="https://user-images.githubusercontent.com/40136017/134124139-172a975d-1cf3-4538-8049-8efab00e4489.png"
-                alt="Shahid321fw11" /> </p>
+<p align="center">
+    <img
+    src="https://user-images.githubusercontent.com/40136017/134124139-172a975d-1cf3-4538-8049-8efab00e4489png"
+    alt="Shahid321fw11" /> </p>
 
 - 🌱 Currently I'm learning *FULL STACK DEVELOPEMNT* (MERN STACK) from MASAI SCHOOL.
 
@@ -17,14 +19,15 @@
 
 - 📫 How to reach me *sidansari20@gmail.com*
 
+
 <!-- ### Feel Free to Contact me..... -->
 <h3 align="center">Feel Free to Contact me.....</h3>
 <p align="center">
-        <a href="https://github.com/Shahid321fw11"><img alt="github" width="10%" style="padding:5px"
+    <a href="https://github.com/Shahid321fw11"><img alt="github" target="_blank" width="10%" style="padding:5px"
                         src="https://img.icons8.com/clouds/100/000000/github.png" /></a>
-        <a href="https://www.linkedin.com/in/shahid-ansari-7387521b1/"><img alt="linkedin" width="10%" style="padding:5px"
+        <a href="https://www.linkedin.com/in/shahid-ansari-7387521b1/"><img alt="linkedin"   target="_blank" width="10%" style="padding:5px"
                         src="https://img.icons8.com/clouds/100/000000/linkedin.png" /></a>
-        <a href="https://twitter.com/@SHAHIDA46831120"><img alt="twitter" width="10%" style="padding:5px"
+        <a href="https://twitter.com/@SHAHIDA46831120"><img alt="twitter"   target="_blank" width="10%" style="padding:5px"
                         src="https://img.icons8.com/clouds/100/000000/twitter.png" /></a>
 </p>
 <h3 align="center">Languages and Tools:</h3>
